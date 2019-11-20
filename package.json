@@ -1,0 +1,11 @@
+{
+  "name": "GraphQl-Prisma-NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexisFabianCarranza/GraphQL-Prisma-NodeJS.git",
+  "author": "AlexisFabianCarranza <alexis.carranza.sistemas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
